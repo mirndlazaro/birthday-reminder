@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { useState } from "react";
 import "./App.css";
+import { Dashboard } from "./components/Dashboard";
 
 function App() {
   const [count, setCount] = useState(0);
