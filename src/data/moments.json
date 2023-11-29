@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "aniversarianteId": 1,
+    "tipo": "foto",
+    "url": "https://example.com/photo1.jpg"
+  },
+  {
+    "id": 2,
+    "aniversarianteId": 1,
+    "tipo": "foto",
+    "url": "https://example.com/photo2.jpg"
+  },
+  {
+    "id": 3,
+    "aniversarianteId": 2,
+    "tipo": "video",
+    "url": "https://example.com/video1.mp4"
+  }
+]
